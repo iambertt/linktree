@@ -21,7 +21,7 @@
   --surface-color: rgba(0, 0, 0, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
   --social-link-hover: rgba(0, 0, 0, 0.1);
-  --switch-button: url(assets/sun.svg);
+  --switch-button: url(assets/Sun.svg);
 }
 
 /*agrupar todos os backgrounds: color image repeat position/size*/
