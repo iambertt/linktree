@@ -17,7 +17,6 @@ Programa desenvolvido como forma de estudo e aprendizado por mim. <br/>
 
 <br>
 
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -29,10 +28,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O Linktree é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://iambertt.github.io/linktree)
-
+- [Acesse o projeto finalizado, online](https://github.com/iambertt/linktree)
 
 ## 🔖 Layout
 
