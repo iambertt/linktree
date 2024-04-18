@@ -82,6 +82,7 @@ body * {
   left: 0;
   z-index: 1;
   transform: translateY(-50%);
+  animation: slide-back 0.2s;
 }
 
 .light #switch button {
@@ -167,7 +168,7 @@ footer {
     --bg-url: url(./assets/bg-desktop.jpg);
   }
   .light {
-    --bg-url: url(./assets/bg-desktop-lightjpg);
+    --bg-url: url(assets/bg-desktop-light.jpg);
   }
 }
 
@@ -177,7 +178,18 @@ footer {
   from {
     left: 0;
   }
+
   to {
     left: 50%;
+  }
+}
+
+@keyframes slide-back {
+  from {
+    left: 50%;
+  }
+
+  to {
+    left: 0;
   }
 }
